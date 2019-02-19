@@ -1,4 +1,4 @@
-# Tableau Assignment - Citi Bike Analytics
+ Citi Bike Analytics
 
 ## Background
 
@@ -12,7 +12,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Task
 
-**Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods. The following are some questions you may wish to tackle, especially if you are working with merged datasets. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
+
 
 * How many trips have been recorded total during the chosen period?
 
@@ -60,7 +60,7 @@ Remember, the people reading your analysis will NOT be data analysts. Your audie
 
 ## Assessment
 
-Your final product will be assessed on the following metrics: 
+final product will be assessed on the following metrics: 
 
 * Analytic Rigor
 
@@ -97,8 +97,4 @@ Your final product will be assessed on the following metrics:
 
 * Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
 
-* Good luck!
 
-## Copyright
-
-Data Boot Camp (C) 2018. All Rights Reserved.
