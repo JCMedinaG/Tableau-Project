@@ -2,6 +2,5 @@
 
 ## Background
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
 
