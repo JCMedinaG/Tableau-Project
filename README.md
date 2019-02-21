@@ -1,6 +1,5 @@
  ## Citi Bike Analytics
 
-## Background
-
+![tableau](Images/tableau.png)
 
 
